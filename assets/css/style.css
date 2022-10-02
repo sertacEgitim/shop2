@@ -1,0 +1,53 @@
+body{
+    font-family: "Roboto", sans-serif;
+}
+
+.page-header{
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 60px;
+}
+.page-header .logo{
+    padding-bottom: 30px;
+}
+
+.content .h1-content{
+    text-align: center;
+}
+
+.product-card img{
+    border: 3px;
+    border-color: black;
+    border-style: solid;
+}
+
+.nav-menu{
+    padding: 0;
+    width: 650px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.nav-menu ul li{
+   display: inline-block;
+}
+
+.nav-menu ul li a{
+    color: black;
+    margin-right: 30px;
+    padding: 10px;
+    background: #dcdde1;
+    text-decoration: none;
+
+}
+.product-list{
+    background: #f5f6fa;
+    padding: 50px;
+
+}
+
+.product-card{
+    display:inline-block;
+    width: 16%;
+
+}
